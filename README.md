@@ -11,7 +11,7 @@ Languages: JavaScript, TypeScript
 Frontend: React.js  
 Backend: Node.js, Express.js  
 Database: MySQL 
-Tools: Git, GitHub, VS Code  
+Tools: Git, GitHub, VS Code, Postman  
 
 🌱 Currently Learning  
 - System Design  
