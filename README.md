@@ -17,7 +17,6 @@
 ## 🚀 About Me
 
 I’m a backend-focused Full Stack Developer who enjoys building scalable systems and turning complex ideas into simple, reliable solutions.
-
 My work focuses on designing clean APIs, managing data flow, and writing maintainable code that performs well in real-world scenarios.
 
 ---
@@ -42,7 +41,6 @@ My work focuses on designing clean APIs, managing data flow, and writing maintai
 ## 🤝 Collaboration
 
 I’m open to collaborating on meaningful projects, especially those involving backend systems, APIs, or real-world problem solving.
-
 If you’re building something interesting or need help structuring systems feel free to connect.
 
 ---
@@ -50,8 +48,8 @@ If you’re building something interesting or need help structuring systems feel
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="www.linkedin.com/in/ruchi-arora-a14a66202">LinkedIn</a> •
+  <a href="ruchiiarora13@gmail.com">Email</a>
 </p>
 
 ---
