@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend-focused+Developer;Building+Scalable+Systems;Designing+Clean+APIs;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+focused+Developer;Building+Scalable+Systems;Designing+Clean+APIs;Turning+Ideas+into+Real+Products" />
 </p>
 
 ---
