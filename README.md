@@ -18,6 +18,10 @@ Tools: Git, GitHub, VS Code
 - Advanced Backend Architecture  
 - Scaling Applications  
 
+🤝 Collaboration
+I’m open to collaborating on meaningful projects, especially those involving backend systems, APIs, or real-world problem solving.
+If you’re building something interesting or need help structuring systems feel free to connect.
+
 📫 Connect With Me  
 - LinkedIn: www.linkedin.com/in/ruchi-arora-a14a66202
 - Email: ruchiiarora13@gmail.com
