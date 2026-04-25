@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Backend-focused Developer • System Thinker • Problem Solver
+  Backend focused Developer • System Thinker • Problem Solver
 </p>
 
 <p align="center">
