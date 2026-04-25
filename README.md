@@ -10,7 +10,7 @@ My work revolves around designing efficient APIs, structuring databases, and han
 Languages: JavaScript, TypeScript  
 Frontend: React.js  
 Backend: Node.js, Express.js  
-Database: MySQL 
+Database: MySQL          
 Tools: Git, GitHub, VS Code, Postman  
 
 🌱 Currently Learning  
