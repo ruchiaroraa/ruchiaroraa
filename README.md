@@ -16,8 +16,7 @@ Tools: Git, GitHub, VS Code
 🌱 Currently Learning  
 - System Design  
 - Advanced Backend Architecture  
-- Scaling Applications  
-
+ 
 🤝 Collaboration
 I’m open to collaborating on meaningful projects, especially those involving backend systems, APIs, or real-world problem solving.
 If you’re building something interesting or need help structuring systems feel free to connect.
