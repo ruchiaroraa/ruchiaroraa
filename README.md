@@ -32,51 +32,11 @@ My work focuses on designing clean APIs, managing data flow, and writing maintai
 
 ---
 
-## 🚀 Featured Projects
-
-### 💳 Scalable Payout System
-- Designed order-based payout flow with commission logic  
-- Automated payment release cycles  
-- Built clean and modular backend APIs  
-
-### ⚙️ Service Platform Backend
-- API-first architecture for handling workflows  
-- Efficient data handling & optimized queries  
-- Structured system for scalability  
-
-### 📊 System Design Practice
-- Focused on building scalable architectures  
-- Working on performance & optimization  
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruchiaroraa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiaroraa&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ruchiaroraa&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-</div>
-
----
-
 ## 🤝 Collaboration
 
 I’m open to collaborating on meaningful projects, especially those involving backend systems, APIs, or real-world problem solving.
 
-If you’re building something interesting or need help structuring systems — feel free to connect.
+If you’re building something interesting or need help structuring systems feel free to connect.
 
 ---
 
