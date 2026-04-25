@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ruchi Arora
+Hi there 👋 I'm Ruchi Arora
 
 💻 Full Stack Developer focused on building real world scalable applications  
 
@@ -17,7 +17,7 @@ Tools: Git, GitHub, VS Code, Postman
 - System Design  
 - Advanced Backend Architecture  
  
-🤝 Collaboration
+🤝 Collaboration                                                                      
 I’m open to collaborating on meaningful projects, especially those involving backend systems, APIs, or real-world problem solving.
 If you’re building something interesting or need help structuring systems feel free to connect.
 
